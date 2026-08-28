@@ -4,7 +4,8 @@
 
 <h2>👨‍💻 Information Technology Projects:</h2>
 
-- <b>Python(File Oragnizer)</b>
+- <b>Python(File System Automator)</b>
+  - [Tutorial](https://github.com/dakarirobertsbusiness/File-System-Automator/tree/main)
 
 - <b>osTicket (Help Desk Ticketing System)</b>
   - [osTicket: Prerequisites and Installation](https://github.com/DakariRobertscc/osticket-prereqs)
