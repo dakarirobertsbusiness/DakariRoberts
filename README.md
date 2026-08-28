@@ -1,7 +1,6 @@
 
 
-<h1>Hi, I'm Dakari, an <a href="https://linkedin.com/in/dakariroberts">IT Professional</a>☺</h1> and an aspiring IAM analyst 
-
+<h1>Hi, I'm Dakari, an <a href="https://linkedin.com/in/dakariroberts">IT Professional</a> and an aspiring IAM Engineer 😊</h1>
 <h2>👨‍💻 Information Technology Projects:</h2>
 
 
