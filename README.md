@@ -7,6 +7,7 @@
 - <b>osTicket (Help Desk Ticketing System)</b>
   - [osTicket: Ticket Lifecycle Examples](https://github.com/dakarirobertsbusiness/ticket-lifecycle)
 - <b>Microsoft Azure</b>
+- [Setting Up Active Directory using Azure VMs]
  
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/dakarirobertsbusiness/Azure-network-protocols-)
 
