@@ -4,8 +4,7 @@
 <h2>👨‍💻 Information Technology Projects:</h2>
 
 
-- <b>osTicket (Help Desk Ticketing System)</b>
-  - [osTicket: Ticket Lifecycle Examples](https://github.com/dakarirobertsbusiness/ticket-lifecycle)
+
 - <b>Microsoft Azure</b>
 -  [Active Directory User Managment](https://github.com/dakarirobertsbusiness/active-directory)
  
